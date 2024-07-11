@@ -1,4 +1,4 @@
-export default mockPlayerStats = {
+export const mockPlayerStats = {
     "get": "players",
     "parameters": {
       "id": "276",

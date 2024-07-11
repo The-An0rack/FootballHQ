@@ -1,5 +1,5 @@
 const Colors = {
-    primary500: "#2d46b9",
+    primary500: "#0788F9",
     accent500: "#F0EEEE"
 }
 
